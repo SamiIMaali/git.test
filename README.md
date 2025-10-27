@@ -26,3 +26,9 @@ The main goal of this project was to improve my understanding of HTML and CSS fu
 ## 🙌 Acknowledgment
 
 Thanks to **Frontend Mentor** for providing this challenge and helping me practice front-end development in a practical way.
+
+🌐 Website Page Link
+
+Please click the link below to view the live challenge:
+[👉 Click here to see the project](https://samiimaali.github.io/git.test/
+).
